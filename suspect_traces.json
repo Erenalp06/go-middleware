@@ -1,0 +1,101 @@
+[
+  {
+    "trace_id": "4998f2a1b246087814cf707e716e40fb",
+    "span_id": "505c17731b7b8ac2",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/withdraw",
+    "timestamp": "2024-07-30T20:12:09.27972223Z",
+    "duration_ms": 429.787779,
+    "suspect": true,
+    "sleep_guess": 293.718367,
+    "time_window": "2024-07-30 20:10:00 - 2024-07-30 20:20:00"
+  },
+  {
+    "trace_id": "7eb2ddeef9decf2d932dc9c4b90f3dec",
+    "span_id": "9f97df620b563949",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/withdraw",
+    "timestamp": "2024-07-30T20:11:31.147436935Z",
+    "duration_ms": 665.902058,
+    "suspect": true,
+    "sleep_guess": 496.328009,
+    "time_window": "2024-07-30 20:10:00 - 2024-07-30 20:20:00"
+  },
+  {
+    "trace_id": "f6013c3f1456b2272d1b42f052c3ecde",
+    "span_id": "929a32253df34bc9",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/payment",
+    "timestamp": "2024-07-30T20:12:09.281971471Z",
+    "duration_ms": 385.604169,
+    "suspect": true,
+    "sleep_guess": 260.566798,
+    "time_window": "2024-07-30 20:10:00 - 2024-07-30 20:20:00"
+  },
+  {
+    "trace_id": "baf524bd255b628925313c740a2abb57",
+    "span_id": "044c86419ea437b6",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/payment",
+    "timestamp": "2024-07-30T20:12:07.864056245Z",
+    "duration_ms": 399.469219,
+    "suspect": true,
+    "sleep_guess": 274.431848,
+    "time_window": "2024-07-30 20:10:00 - 2024-07-30 20:20:00"
+  },
+  {
+    "trace_id": "fa2bef5ca9f78fcd795a99d414b07f48",
+    "span_id": "2ef30b60b4217a43",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/payment",
+    "timestamp": "2024-07-30T20:20:19.967421432Z",
+    "duration_ms": 372.070778,
+    "suspect": true,
+    "sleep_guess": 250.37219000000002,
+    "time_window": "2024-07-30 20:20:00 - 2024-07-30 20:30:00"
+  },
+  {
+    "trace_id": "05fed76710bae4bc76813537da951a4b",
+    "span_id": "e986f8f27bfb098b",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/transfer",
+    "timestamp": "2024-07-30T20:25:03.333176697Z",
+    "duration_ms": 391.965184,
+    "suspect": true,
+    "sleep_guess": 270.91856700000005,
+    "time_window": "2024-07-30 20:20:00 - 2024-07-30 20:30:00"
+  },
+  {
+    "trace_id": "9501bada9c7bda540dbdb2c95c91af46",
+    "span_id": "532ed9b079bc7f34",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/transfer",
+    "timestamp": "2024-07-30T20:20:19.945106781Z",
+    "duration_ms": 393.570989,
+    "suspect": true,
+    "sleep_guess": 272.52437199999997,
+    "time_window": "2024-07-30 20:20:00 - 2024-07-30 20:30:00"
+  },
+  {
+    "trace_id": "da60e90a513efdead769406fcaa23ef9",
+    "span_id": "c4cc61f65c206a07",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/transfer",
+    "timestamp": "2024-07-30T20:20:19.999640517Z",
+    "duration_ms": 400.700652,
+    "suspect": true,
+    "sleep_guess": 279.654035,
+    "time_window": "2024-07-30 20:20:00 - 2024-07-30 20:30:00"
+  },
+  {
+    "trace_id": "2efeca5e8ee233127c0c27e9e34f915c",
+    "span_id": "0d353e013028c13d",
+    "parent_id": "",
+    "span_name": "POST /api/v1/transactions/deposit",
+    "timestamp": "2024-07-30T20:29:39.995048028Z",
+    "duration_ms": 720.779029,
+    "suspect": true,
+    "sleep_guess": 499.730859,
+    "time_window": "2024-07-30 20:20:00 - 2024-07-30 20:30:00"
+  }
+]
